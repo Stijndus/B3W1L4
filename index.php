@@ -30,7 +30,6 @@
         <title>Document</title>
         <style>
             h1 {
-                display: block;
                 display: flex;
                 height: 70vh;
                 justify-content: center;
